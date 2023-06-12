@@ -1,0 +1,16 @@
+.Form {
+	margin-left: 20px;
+	font-size: 12px;
+}
+
+button {
+	margin-top: 10px;
+	display: block;
+	font-size: 11px;
+}
+
+.errorLabel {
+	color: red;
+	font-size: 11px;
+	margin: 0;
+}
